@@ -1,4 +1,4 @@
-# Informatica-aplicada-a-Logistica
+# Informática aplicada a Logística
 Repositório para utilizar durantes as aulas de Informática
 * Entrar no teams para prucurar os materias disponíveis.
 * Olhar no GitHub os repositórios que o professor já fez.
