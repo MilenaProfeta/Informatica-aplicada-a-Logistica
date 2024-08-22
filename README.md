@@ -20,3 +20,9 @@ Repositório para utilizar durantes as aulas de Informática
 - [x] Levar todos os documento da matrícula na secretaria
 - [ ] Tentar entrar no teams
 - [ ] Aprender mais sobre GitHub
+
+|**Teste**|**teste 1**|**teste 2**|**teste 3**|
+|---------|-----------|-----------|-----------|
+|coisa    |coisa      |coisa      |coisa      |
+|treco    |treco      |treco      |treco      |
+julia vitoria silva
