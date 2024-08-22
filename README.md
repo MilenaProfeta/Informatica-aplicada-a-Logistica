@@ -20,9 +20,13 @@ Repositório para utilizar durantes as aulas de Informática
 - [x] Levar todos os documento da matrícula na secretaria
 - [ ] Tentar entrar no teams
 - [ ] Aprender mais sobre GitHub
+- [x] Aprender a montar uma tabela no GitHub
 
-|**Teste**|**teste 1**|**teste 2**|**teste 3**|
-|---------|-----------|-----------|-----------|
-|coisa    |coisa      |coisa      |coisa      |
-|treco    |treco      |treco      |treco      |
-julia vitoria silva
+|Categorias    |Cliente 1 |Cliente 2|Cliente 3|Cliente 4|Cliente 5  |
+|--------------|----------|---------|---------|---------|-----------|
+|**Cor**       |Azul      |Vermelho |Verde    |Branco   |Amarelo    |
+|**Nome**      |Olivia    |Carla    |Sergio   |Roberto  |Vitoria    |  
+|**Pastel**    |Carne     |Queijo   |Pizza    |Frango   |Palmito    |
+|**Condimento**|Vinagrete |Mostarda |Ketchup  |Maionese |Pimenta    |
+|**Suco**      |Morango   |Uva      |Limão    |Laranja  |Maracujá   |
+|**Profissão** |Professora|Repórter |Médico   |Cantor   |Veterinária|
